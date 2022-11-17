@@ -1,0 +1,13 @@
+# String Palindrom or not
+
+str="Laasya"
+
+print(str)
+
+print(type(str))
+
+l_str=len(str)
+
+print("length of the string is",l_str)
+
+  
